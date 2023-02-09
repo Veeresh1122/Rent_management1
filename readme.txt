@@ -1,7 +1,3 @@
-Free Download Source Code "House Rental Management System"
-
-FIRST Download
-
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -28,5 +24,3 @@ Admin
 user: admin
 pass: admin123
 
-****** https://www.campcodes.com ******
-Subcribe to our Youtube Channel **** SerBermz ****
